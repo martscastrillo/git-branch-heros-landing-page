@@ -37,7 +37,7 @@
     text-decoration: none;
     color: $color-white;
     &:hover {
-      color: #0e423e;
+      color: $color-aqua;
     }
   }
   &--ul {
@@ -69,13 +69,19 @@
     font-size: 1.5rem;
     text-decoration: none;
     &:hover {
-      color: #0e423e;
+      color: $color-blue-green;
       &:active {
         color: #0e423e;
       }
     }
     @media all and (min-width: 768px) {
       padding: 10px;
+      &:hover {
+        color:$color-aqua;
+        &:active {
+          color: #0e423e;
+        }
     }
   }
+}
 }
