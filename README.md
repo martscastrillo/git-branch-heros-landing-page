@@ -1,4 +1,5 @@
-![Git Branch Heros](./docs/assets/images/git-branch-heros-1.jpg)
+<img width="2046" alt="Captura de Pantalla 2023-01-24 a las 11 37 03" src="https://user-images.githubusercontent.com/112553001/214271724-7929957c-d653-45ba-a8a5-fc8bb2d96ccc.png">
+
 
 # Git Branch Heros
 
@@ -16,7 +17,9 @@ Given a design, they have developed a completely new customized website implemen
 
 5. Both an **"Index"** and a **"Contact Form"** pages had to be created.
 
-![Git Branch Heros 2](./docs/assets/images/git-branch-heros-2.jpg)
+
+<img width="2047" alt="Captura de Pantalla 2023-01-24 a las 11 37 21" src="https://user-images.githubusercontent.com/112553001/214271596-f74c4f48-32bb-4a74-b9f8-b2d63ee27b87.png">
+
 
 Taking all these features into account the "Git Branch Heros" team has developed a fully customized website introducing the following new features to improve user's experience:
 
@@ -28,7 +31,7 @@ Taking all these features into account the "Git Branch Heros" team has developed
 
 4. **A fully operative "navigation bar"** you will be able to use to travel all around the page and contact form.
 
-![Git Branch Heros 2](./docs/assets/images/git-branch-heros-3.jpg)
+<img width="2046" alt="Captura de Pantalla 2023-01-24 a las 11 37 48" src="https://user-images.githubusercontent.com/112553001/214271438-b300655a-82e0-4fe5-b37f-ed9d6fec1d7f.png">
 
 If you want to take a look, don't hesitate and go to our GitHub Pages Link attached in the description of this repository.
 
