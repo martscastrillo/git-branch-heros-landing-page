@@ -83,9 +83,23 @@ background-color: orange;
     transition: transform 2s;
   }
 }
+.imagebw {
+  width: 100%;
+  display:block;
+  &:hover {
+    color: $color-aqua;
+    display:none;
+  }
+}
 .image {
   width: 100%;
+  display:none;
+  &:hover {
+    color: $color-aqua;
+    display:block;
+  }
 }
+
 
 .quienes-somos-text {
   display: flex;
